@@ -1,0 +1,7 @@
+.predicted-age-visisble {
+visibility: visible;
+}
+
+.predicted-age-hidden {
+    visibility: hidden;
+}
