@@ -5,3 +5,36 @@ visibility: visible;
 .predicted-age-hidden {
     visibility: hidden;
 }
+body {
+    background-color: grey;
+}
+.container{
+    margin-top: 10%;
+    width: 1000px;
+    height: 500px;
+    background-color: ghostwhite;
+}
+
+.title{
+    text-align: center;
+}
+/* .agePredictor{
+    text-align: center;
+    margin-top: 50%;
+} */
+
+input {
+    margin-top: 13%;
+}
+.input{
+    text-align: center;
+    
+}
+h1,h2 {
+margin-top: 12%;
+text-align: center;
+}
+.row {
+    margin-left: 170px;
+}
+
